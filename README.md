@@ -78,7 +78,8 @@ Result: Role-based prompting helps the AI adapt its language, tone, and level of
 
 ## 3.AI PLATFORMS USED
 
-[File:ChatGPT-Logo.svg - Wikimedia Commons](https://images.openai.com/static-rsc-4/iIwQvt6lHcQFgj7BguLsxseHBBrUFkMcXG5YNkmFFW4lfJVJx4j903Vj6U7eh4G1RxYAM5rcotiwXgmy1bpDjVeUGauxGKEaWacWqJ6UawIltioycNX9Ru1jiDHQJ6b718nA6kh8GV93DvtXMfEhj4O5IYd7IWQ4fxKOZEoQ6CY?purpose=inline)
+
+<img width="657" height="512" alt="image" src="https://github.com/user-attachments/assets/c43cdf79-9712-42e7-9bbf-f1e791548d9c" />
 
 ChatGPT
 
@@ -86,7 +87,8 @@ ChatGPT generates summaries, explains technical concepts, and follows detailed i
 
 Example: “Summarize blockchain in 100 words using simple English for engineering students.”
 
-[Gemini – Google’s AI Assistant for Smart Conversations & Productivity – Daidu.ai](https://images.openai.com/static-rsc-4/ptJvxAnbpHSz9oKwhiZCWU9MTvmPl997rGrZd4wqTgvg18xJPt8X3ASwCANnmkTN4cvnMJqTW5csYg-Wx_SyU_pL6waVf_YLfxdwlsLklzd2H22udrktQ6oVGaeLOvjKRl8y4lJCZGtYV2I-4GwcwBjAGawfKX-wZYbv6TzRORU?purpose=inline)
+<img width="1242" height="475" alt="image" src="https://github.com/user-attachments/assets/ffa27bea-040d-4ae1-bf0f-064eae23fb67" />
+
 
 Google Gemini
 
@@ -94,7 +96,6 @@ Gemini can summarize text, identify key ideas, and organize information into rea
 
 Example: “Extract the main ideas from the blockchain article and present them as a short summary.”
 
-[Claude](https://images.openai.com/static-rsc-4/cLHBfiXuOV35_PSb5wC1jXivsAXbOR_8j6QIuMUVJNmHhvqDTZSAjip3DZXEZE8rrigO3zrBPXPTm3OPFqtXG1oYbfxtfR2epfKwRiaR-r0auw26KWwnnPiRgtOfu6qqeScD6KjrINNkb8STcXPBIHcixXdk1xpiKuwC8UdBT_8?purpose=inline)
 
 Claude
 
@@ -102,7 +103,8 @@ Claude can work with lengthy text and produce well-organized summaries when give
 
 Example: “Summarize the blockchain article, preserving its key concepts, advantages, and limitations.”
 
-[Workshop Presencial Copilot en Acción - Versión 2 | FORTION SAS Medellín](https://images.openai.com/static-rsc-4/ZqytWYCDj6KJnvCqQ6lRtawhEw5OCgC1y1UkVntc9lo8Hg8ouN-Jj_rZ3YVMuC-gZIex_GaOpZ9hg3s0fHWlpwKt1lqvOEYamzjx7_k_2D1HBsve0bIRevJOprPzsobcpv-MX6IGgiWUwKqQRlwCCVvKGH977h0ImP34TRNYV-c?purpose=inline)
+<img width="767" height="525" alt="image" src="https://github.com/user-attachments/assets/4a978628-0730-49e3-a977-ec163523efaf" />
+
 
 Microsoft Copilot
 
