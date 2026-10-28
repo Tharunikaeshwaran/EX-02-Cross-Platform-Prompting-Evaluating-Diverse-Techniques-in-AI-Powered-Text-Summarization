@@ -178,4 +178,6 @@ Example interpretation: If Claude's few-shot summary receives high accuracy and 
 
 ## Result
 
+The experiment compares four prompting techniques across ChatGPT, Gemini, Claude, and Copilot for summarizing a technical article about blockchain technology. Zero-shot prompting is useful for quick summaries, few-shot prompting helps maintain a consistent style, chain-of-thought-style structured prompting encourages systematic coverage of key ideas, and role-based prompting adapts the output to the target audience.
 
+The best combination should be selected based on the actual evaluation scores. For undergraduate educational content, role-based or few-shot prompting is a useful starting point because both can guide the AI toward simple, consistent, and readable summaries.
